@@ -33,6 +33,6 @@ Following the influx of August 2017, UNHCR and the Government of Bangladesh emba
 - User Management Monitoring: I monitor and regularly clean up user accounts and access permissions, ensuring device and user management within local client and field server solutions, and preventing data loss through frequent data synchronization.
 
 #### Technical Issue Resolution
-- Technical User Support: I identify, diagnose, and escalate technical user errors, bugs, and queries related to core applications. I work in consultation with headquarters, external developers, and support teams to resolve these issues.
+- Technical User Support: I identify, diagnose, and escalate technical user errors, bugs, and queries related to core applications(proGres, BIMS, GDT). I work in consultation with headquarters, external developers, and support teams to resolve these issues.
 - Data Quality and Mapping: I assist with data quality assessment, data clean-up, and mapping from legacy or external database systems to the current applications.
 
