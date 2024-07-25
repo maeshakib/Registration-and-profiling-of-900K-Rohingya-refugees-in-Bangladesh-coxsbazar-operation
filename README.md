@@ -5,7 +5,7 @@ With the arrival of over 700,000 Rohingya refugees into Bangladesh in August 201
 
 Following the influx of August 2017, UNHCR and the Government of Bangladesh embarked on a joint registration exercise in order to consolidate registration data for the Rohingya population and issue documentation for all refugees, including previously unregistered refugees who entered Bangladesh following the 1992 cut-off date for registration.
 
-### My Core responsibilities May 2020 – Currently working | UNHCR | Coxsbazar City, Bangladesh
+### My Core responsibilities
 
 #### Data Management and Technical Support
 - Core Operational Data Applications: I manage the use, maintenance, and technical support of applications that handle refugee registration and identity management. My role includes overseeing [data collection quality](https://github.com/maeshakib/Data-Quality-on-Population-Database-SQL-Analysis) and ensuring adherence to standards and guidelines. 
