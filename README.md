@@ -15,13 +15,23 @@ Following the influx of August 2017, UNHCR and the Government of Bangladesh emba
 
 ### Functional Skills and Duties
 #### Data Management and Technical Support
-- Core Operational Data Applications: I manage the use, maintenance, and technical support of applications that handle refugee registration and identity management. My role includes overseeing data collection quality and ensuring adherence to standards and guidelines.
+- Core Operational Data Applications: I manage the use, maintenance, and technical support of applications that handle refugee registration and identity management. My role includes overseeing [data collection quality](https://github.com/maeshakib/Data-Quality-on-Population-Database-SQL-Analysis) and ensuring adherence to standards and guidelines. 
 - Database Administration: I perform database administrator functions for local field server machines containing operational data, including data for refugees and other persons of concern.
 #### User Access and Permissions
-- User Access Management: I respond to and manage user access permissions for UNHCR staff, local government, and NGO partners in accordance with policies and standards, including the Data Protection Policy and local data protection protocols.
+- User Access Management: I respond to and manage user access permissions for UNHCR staff, local government, and NGO partners in all applications( proGres,BIMS,GDT) in accordance with policies and standards, including the Data Protection Policy and local data protection protocols.
 - User Management Monitoring: I monitor and regularly clean up user accounts and access permissions, ensuring device and user management within local client and field server solutions, and preventing data loss through frequent data synchronization.
 Reporting and Template Design
-- Standard Reports and Templates: I assist in designing and developing standard reports, templates, and forms, ensuring consistency with global guidance and policies, and consulting with relevant stakeholders, including business module owners.
+- Standard Reports and Templates: I assist in designing and developing standard reports, templates, and forms(Kobo), ensuring consistency with global guidance and policies, and consulting with relevant stakeholders, including business module owners.
+  - GDT Reports
+    - Daily distribution reports
+    - Monthly distribution reports
+    - Mid Year Implementation Monitoring and Review Indicators
+    - Monthly LPG refill projection.
+    - Yearly LPG refill projection.     
+  - proGres Reports
+    - Report with Fetch XML based on CRM application
+  - BIMS Reports
+    - Onmover tracking with BIMS data/operation level summary report. 
 - Operational Reports and Statistics: I support the design and strengthening of operational reports and statistics, provide training and user guidance, and conduct field testing of new functionalities within respective applications.
 #### Technical Issue Resolution
 - Technical User Support: I identify, diagnose, and escalate technical user errors, bugs, and queries related to core applications. I work in consultation with headquarters, external developers, and support teams to resolve these issues.
